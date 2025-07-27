@@ -23,8 +23,8 @@ Transform your documents into interactive flashcards instantly! FlashyGen uses A
 
 ## 🖼️ Screenshots
 
-![alt text](image.png)
-![alt text](Untitledvideo-MadewithClipchamp8-ezgif.com-added-text.gif)
+!(image.png)
+!(Untitledvideo-MadewithClipchamp8-ezgif.com-added-text.gif)
 ---
 
 ## 🛠️ Getting Started (Local Development)
