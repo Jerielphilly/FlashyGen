@@ -103,7 +103,7 @@ Before you begin, ensure you have the following installed:
 
 6.  **Run the React Frontend:**
     ```bash
-    npm start # or yarn start
+    npm run dev
     ```
     *This will open the FlashyGen application in your browser, usually at `http://localhost:3000`.*
 
