@@ -65,7 +65,7 @@ Before you begin, ensure you have the following installed:
 
 3.  **Frontend Setup (React):**
     ```bash
-    cd ../frontend # Navigate back to the root and then into the frontend folder
+    cd frontend # Navigate back to the root and then into the frontend folder
     npm install # or yarn install
     ```
 
@@ -105,7 +105,7 @@ Before you begin, ensure you have the following installed:
     ```bash
     npm run dev
     ```
-    *This will open the FlashyGen application in your browser, usually at `http://localhost:3000`.*
+    *This will open the FlashyGen application in your browser, usually at `http://localhost:5173`.*
 
 ---
 
