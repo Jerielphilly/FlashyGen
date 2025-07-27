@@ -65,7 +65,7 @@ Before you begin, ensure you have the following installed:
 
 3.  **Frontend Setup (React):**
     ```bash
-    cd ../frontend # Navigate back to the root and then into the frontend folder
+    cd frontend # Navigate back to the root and then into the frontend folder
     npm install # or yarn install
     ```
 
