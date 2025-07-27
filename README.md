@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/flashygen.git](https://github.com/yourusername/flashygen.git)
+    git clone [https://github.com/Jerielphilly/FlashyGen.git](https://github.com/yourusername/flashygen.git)
     cd flashygen
     ```
     *Note: This repository is structured as a monorepo, containing both `backend` and `frontend` folders.*
