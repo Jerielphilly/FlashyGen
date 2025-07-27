@@ -1,14 +1,11 @@
 import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 import { Upload, PlayCircle, Bookmark, Sun, Moon, Database, Edit, Trash2, Check, X } from "lucide-react";
-
-// Firebase imports
 import { initializeApp } from 'firebase/app';
 import { getAuth, signInAnonymously, onAuthStateChanged } from 'firebase/auth';
 import { getFirestore, doc, setDoc, collection, query, onSnapshot, deleteDoc, updateDoc } from 'firebase/firestore';
 
-
-// Your Firebase configuration (PASTE THIS DIRECTLY INTO YOUR App.jsx)
+// Your Firebase configuration: make sure to fill in your Firebase project details here.
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
