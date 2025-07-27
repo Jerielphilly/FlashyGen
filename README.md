@@ -25,7 +25,7 @@ Transform your documents into interactive flashcards instantly! FlashyGen uses A
 ## 🖼️ Screenshots
 
 ![alt text](image.png)
-
+![alt text](Untitledvideo-MadewithClipchamp8-ezgif.com-added-text.gif)
 ---
 
 ## 🛠️ Getting Started (Local Development)
@@ -103,9 +103,9 @@ Before you begin, ensure you have the following installed:
 
 6.  **Run the React Frontend:**
     ```bash
-    npm start # or yarn start
+    npm run dev
     ```
-    *This will open the FlashyGen application in your browser, usually at `http://localhost:3000`.*
+    *This will open the FlashyGen application in your browser, usually at `http://localhost:5173`.*
 
 ---
 

@@ -7,13 +7,13 @@ import { getFirestore, doc, setDoc, collection, query, onSnapshot, deleteDoc, up
 
 // Your Firebase configuration: make sure to fill in your Firebase project details here.
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: "" // Optional, can be removed if not using Analytics
+  apiKey: "AIzaSyAioG5N7StJuk5Hz0wKqujqoDKJEbfk7w0",
+  authDomain: "flashygen-8c134.firebaseapp.com",
+  projectId: "flashygen-8c134",
+  storageBucket: "flashygen-8c134.firebasestorage.app",
+  messagingSenderId: "838930296266",
+  appId: "1:838930296266:web:de013c50420bccddb1b333",
+  measurementId: "G-8BTLJELM8P"
 };
 
 
