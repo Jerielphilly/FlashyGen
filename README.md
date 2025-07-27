@@ -1,7 +1,6 @@
 # FLASHYGEN - AI Flashcard Generator
 
 ![FlashyGen Logo Placeholder](https://placehold.co/600x200/8A2BE2/FFFFFF?text=FlashyGen)
-*(Optional: You can replace the placeholder above with a real logo or screenshot later!)*
 
 ## Project Description
 
